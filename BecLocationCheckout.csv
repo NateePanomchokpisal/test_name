@@ -1,0 +1,918 @@
+location_name,description,itype_name,checkout_total_x
+Architecture Library,นิสิตสถาปัตย์,Book,54.0
+Architecture Library,นิสิตสถาปัตย์,E Book,161.0
+Architecture Library (3rd Floor),นิสิต,E Book,759.0
+Architecture Library (3rd Floor),นิสิตนิเทศ,E Book,1574.0
+Architecture Library (3rd Floor),นิสิตพาณิช-บัญชี,E Book,800.0
+Architecture Library (3rd Floor),นิสิตวิทยาศาสตร์,E Book,777.0
+Architecture Library (3rd Floor),นิสิตศิลปกรรม,E Book,831.0
+Architecture Library (3rd Floor),นิสิตสถาปัตย์,Book,3059.0
+Architecture Library (3rd Floor),นิสิตสถาปัตย์,E Book,470930.0
+Architecture Library (3rd Floor),นิสิตอักษร,E Book,448.0
+Architecture Library (4th Floor),นิสิต,E Book,1166.0
+Architecture Library (4th Floor),นิสิตครุ,E Book,24.0
+Architecture Library (4th Floor),นิสิตพาณิช-บัญชี,E Book,42.0
+Architecture Library (4th Floor),นิสิตรัฐศาสตร์,E Book,48.0
+Architecture Library (4th Floor),นิสิตวิทย์-กีฬา,E Book,15.0
+Architecture Library (4th Floor),นิสิตวิศวะ,E Book,2355.0
+Architecture Library (4th Floor),นิสิตสถาปัตย์,Book,230.0
+Architecture Library (4th Floor),นิสิตสถาปัตย์,E Book,153985.0
+Architecture Library (4th Floor),นิสิตอักษร,E Book,34.0
+Architecture Library (4th Floor),นิสิตเภสัชฯ,E Book,28.0
+Architecture Library (4th Floor),นิสิตแพทย์,Book,11.0
+Architecture Library (Quiet Zone),นิสิต,Book,8814.0
+Architecture Library (Quiet Zone),นิสิตนิติศาสตร์,Book,271.0
+Architecture Library (Quiet Zone),นิสิตพาณิช-บัญชี,Book,590.0
+Architecture Library (Quiet Zone),นิสิตรัฐศาสตร์,Book,11.0
+Architecture Library (Quiet Zone),นิสิตวิทยาศาสตร์,Book,665.0
+Architecture Library (Quiet Zone),นิสิตศิลปกรรม,Book,2159.0
+Architecture Library (Quiet Zone),นิสิตสถาปัตย์,Book,223893.0
+Architecture Library (Quiet Zone),นิสิตสถาปัตย์,E Book,3699.0
+Architecture Library (Quiet Zone),นิสิตสหเวชศาสตร์,Book,1816.0
+Architecture Library (Quiet Zone),นิสิตอักษร,Book,1332.0
+Architecture Library (Quiet Zone),นิสิตอักษร,Thesis,18.0
+Architecture Library (Quiet Zone),นิสิตเภสัชฯ,Book,216.0
+Architecture Library : Reserve Collection,นิสิตสถาปัตย์,E Reserve 1,72.0
+Arts Library,นิสิต,Book,1367.0
+Arts Library,นิสิตครุ,Book,97711.0
+Arts Library,นิสิตครุ,E Book,5457.0
+Arts Library,นิสิตครุ,Special Collection,762.0
+Arts Library,นิสิตจิตวิทยา,Book,2251.0
+Arts Library,นิสิตจิตวิทยา,E Book,391.0
+Arts Library,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Book,182.0
+Arts Library,นิสิตทันตแพทย์,Book,7329.0
+Arts Library,นิสิตนิติศาสตร์,Book,20.0
+Arts Library,นิสิตนิติศาสตร์,E Book,610.0
+Arts Library,นิสิตนิเทศ,Book,5314.0
+Arts Library,นิสิตนิเทศ,E Book,2305.0
+Arts Library,นิสิตพาณิช-บัญชี,Book,1434.0
+Arts Library,นิสิตพาณิช-บัญชี,E Book,452.0
+Arts Library,นิสิตรัฐศาสตร์,Book,15377.0
+Arts Library,นิสิตรัฐศาสตร์,E Book,13325.0
+Arts Library,นิสิตวิทยาศาสตร์,Book,2184.0
+Arts Library,นิสิตวิทยาศาสตร์,E Book,2268.0
+Arts Library,นิสิตวิทย์-กีฬา,Book,360.0
+Arts Library,นิสิตวิทย์-กีฬา,E Book,432.0
+Arts Library,นิสิตวิศวะ,Book,14339.0
+Arts Library,นิสิตวิศวะ,E Book,967.0
+Arts Library,นิสิตศิลปกรรม,Book,5458.0
+Arts Library,นิสิตศิลปกรรม,E Book,72.0
+Arts Library,นิสิตศิลปกรรม,Reserve 3,72.0
+Arts Library,นิสิตสถาปัตย์,Book,6721.0
+Arts Library,นิสิตสถาปัตย์,E Book,1786.0
+Arts Library,นิสิตสหเวชศาสตร์,E Book,920.0
+Arts Library,นิสิตสัตวแพทย์,Book,822.0
+Arts Library,นิสิตสัตวแพทย์,E Book,387.0
+Arts Library,นิสิตอักษร,Book,336567.0
+Arts Library,นิสิตอักษร,E Book,90465.0
+Arts Library,นิสิตอักษร,Special Collection,104.0
+Arts Library,นิสิตเภสัชฯ,Book,2621.0
+Arts Library,นิสิตเภสัชฯ,E Book,28.0
+Arts Library,นิสิตเศรษฐศาสตร์,Book,1276.0
+Arts Library,นิสิตเศรษฐศาสตร์,E Book,91.0
+Arts Library,นิสิตแพทย์,Book,1591.0
+Arts Library,นิสิตแพทย์,E Book,470.0
+Arts Library : ASEAN Collection,นิสิต,Book,45.0
+Arts Library : ASEAN Collection,นิสิตครุ,Book,60.0
+Arts Library : ASEAN Collection,นิสิตรัฐศาสตร์,Book,571.0
+Arts Library : ASEAN Collection,นิสิตรัฐศาสตร์,E Book,252.0
+Arts Library : ASEAN Collection,นิสิตวิทยาศาสตร์,Book,3.0
+Arts Library : ASEAN Collection,นิสิตศิลปกรรม,Book,282.0
+Arts Library : ASEAN Collection,นิสิตสถาปัตย์,Book,68.0
+Arts Library : ASEAN Collection,นิสิตสถาปัตย์,E Book,161.0
+Arts Library : ASEAN Collection,นิสิตอักษร,Book,5441.0
+Arts Library : ASEAN Collection,นิสิตอักษร,E Book,1457.0
+Arts Library : ASEAN Collection,นิสิตเภสัชฯ,Book,1657.0
+Arts Library : ASEAN Collection,นิสิตเภสัชฯ,E Book,273.0
+Arts Library : ASEAN Collection,นิสิตแพทย์,Book,96.0
+Arts Library : Audio-Visual Collection,นิสิตอักษร,Fulltext CD-ROM,2.0
+Arts Library : Audio-Visual Collection,นิสิตอักษร,Laser Disc,3.0
+Arts Library : Audio-Visual at Mahachakri Sirindhorn Bld.,นิสิตนิเทศ,Fulltext CD-ROM,1.0
+Arts Library : Audio-Visual at Mahachakri Sirindhorn Bld.,นิสิตสถาปัตย์,Laser Disc,5.0
+Arts Library : Audio-Visual at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Fulltext CD-ROM,801.0
+Arts Library : Audio-Visual at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Laser Disc,23.0
+Arts Library : Foreign Languages Collection,นิสิตครุ,E Book,2998.0
+Arts Library : Foreign Languages Collection,นิสิตนิติศาสตร์,E Book,426.0
+Arts Library : Foreign Languages Collection,นิสิตนิเทศ,E Book,1165.0
+Arts Library : Foreign Languages Collection,นิสิตรัฐศาสตร์,E Book,1178.0
+Arts Library : Foreign Languages Collection,นิสิตสถาปัตย์,E Book,285.0
+Arts Library : Foreign Languages Collection,นิสิตอักษร,Book,277.0
+Arts Library : Foreign Languages Collection,นิสิตอักษร,E Book,15000.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตครุ,Book,28.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตนิเทศ,Book,102.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตพาณิช-บัญชี,Book,102.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตวิทยาศาสตร์,E Book,80.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตอักษร,Book,8521.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตอักษร,E Book,4564.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตอักษร,E Special Collection,118.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตอักษร,Reserve 7,55.0
+Arts Library : Mahachakri Sirindhorn Bld.,นิสิตอักษร,Special Collection,416.0
+Arts Library : Reference Collection,นิสิตอักษร,E Reserve 7,552.0
+Arts Library : Reference Collection,นิสิตอักษร,Fulltext CD-ROM,468.0
+Arts Library : Reference at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Book,297.0
+Arts Library : Reserve Collection,นิสิตครุ,Reserve 7,247.0
+Arts Library : Reserve Collection,นิสิตรัฐศาสตร์,E Reserve 7,228.0
+Arts Library : Reserve Collection,นิสิตอักษร,E Book,115.0
+Arts Library : Reserve Collection,นิสิตอักษร,E Reserve 3,24.0
+Arts Library : Reserve Collection,นิสิตอักษร,E Reserve 7,1490.0
+Arts Library : Reserve Collection,นิสิตอักษร,Reserve 7,48.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตครุ,Reserve 3,36.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตครุ,Reserve 7,390.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตรัฐศาสตร์,Reserve 7,818.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตวิทยาศาสตร์,E Reserve 7,39.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตวิทยาศาสตร์,Reserve 3,39.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตศิลปกรรม,Reserve 7,244.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตสถาปัตย์,Reserve 7,251.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Book,22.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,E Book,98.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,E Reserve 3,73.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,E Reserve 7,4858.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Pamphlet,5.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Reserve 3,802.0
+Arts Library : Reserve at Mahachakri Sirindhorn Bld.,นิสิตอักษร,Reserve 7,10089.0
+Arts Library : Special Collection,นิสิตอักษร,Reserve 7,29.0
+Arts Library : Stack,นิสิตครุ,Book,1104.0
+Arts Library : Stack,นิสิตครุ,E Book,79.0
+Arts Library : Stack,นิสิตนิเทศ,E Book,8.0
+Arts Library : Stack,นิสิตพาณิช-บัญชี,E Book,168.0
+Arts Library : Stack,นิสิตรัฐศาสตร์,Book,193.0
+Arts Library : Stack,นิสิตรัฐศาสตร์,E Book,105.0
+Arts Library : Stack,นิสิตวิศวะ,E Book,21.0
+Arts Library : Stack,นิสิตสถาปัตย์,Book,19.0
+Arts Library : Stack,นิสิตสถาปัตย์,E Book,277.0
+Arts Library : Stack,นิสิตสหเวชศาสตร์,Book,27.0
+Arts Library : Stack,นิสิตอักษร,Book,1647.0
+Arts Library : Stack,นิสิตอักษร,E Book,1152.0
+Arts Library : Thesis,นิสิตรัฐศาสตร์,Thesis,112.0
+Arts Library : Thesis,นิสิตอักษร,Thesis,475.0
+Arts Library : Translation Collection,นิสิตอักษร,Book,300.0
+CL Circulation,นิสิตครุ,Electronic Equipment,46.0
+Central Library,นิสิตครุ,Book,1630.0
+Central Library,นิสิตครุ,E Book,266.0
+Central Library,นิสิตวิทย์-กีฬา,Book,567.0
+Central Library,นิสิตวิศวะ,Board game,3.0
+Central Library,นิสิตสถาปัตย์,E Book,136.0
+Central Library,นิสิตอักษร,E Book,51.0
+Central Library,นิสิตเภสัชฯ,Book,3073.0
+Central Library (4th Floor),นิสิต,Book,39216.0
+Central Library (4th Floor),นิสิต,E Book,9995.0
+Central Library (4th Floor),นิสิตครุ,Book,1207096.0
+Central Library (4th Floor),นิสิตครุ,E Book,58144.0
+Central Library (4th Floor),นิสิตจิตวิทยา,Book,62429.0
+Central Library (4th Floor),นิสิตจิตวิทยา,E Book,15159.0
+Central Library (4th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Book,24543.0
+Central Library (4th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,1849.0
+Central Library (4th Floor),นิสิตทันตแพทย์,Book,20500.0
+Central Library (4th Floor),นิสิตทันตแพทย์,E Book,1795.0
+Central Library (4th Floor),นิสิตนิติศาสตร์,Book,95621.0
+Central Library (4th Floor),นิสิตนิติศาสตร์,E Book,4199.0
+Central Library (4th Floor),นิสิตนิเทศ,Book,102652.0
+Central Library (4th Floor),นิสิตนิเทศ,E Book,8053.0
+Central Library (4th Floor),นิสิตพาณิช-บัญชี,Book,170509.0
+Central Library (4th Floor),นิสิตพาณิช-บัญชี,E Book,11043.0
+Central Library (4th Floor),นิสิตรัฐศาสตร์,Book,200921.0
+Central Library (4th Floor),นิสิตรัฐศาสตร์,E Book,19425.0
+Central Library (4th Floor),นิสิตวิทยาศาสตร์,Book,640049.0
+Central Library (4th Floor),นิสิตวิทยาศาสตร์,E Book,45148.0
+Central Library (4th Floor),นิสิตวิทย์-กีฬา,Book,45805.0
+Central Library (4th Floor),นิสิตวิทย์-กีฬา,E Book,4694.0
+Central Library (4th Floor),นิสิตวิศวะ,Book,227747.0
+Central Library (4th Floor),นิสิตวิศวะ,E Book,19729.0
+Central Library (4th Floor),นิสิตศิลปกรรม,Book,42162.0
+Central Library (4th Floor),นิสิตศิลปกรรม,E Book,448.0
+Central Library (4th Floor),นิสิตสถาปัตย์,Book,77386.0
+Central Library (4th Floor),นิสิตสถาปัตย์,E Book,3857.0
+Central Library (4th Floor),นิสิตสหเวชศาสตร์,Book,206902.0
+Central Library (4th Floor),นิสิตสหเวชศาสตร์,E Book,4109.0
+Central Library (4th Floor),นิสิตสัตวแพทย์,Book,100483.0
+Central Library (4th Floor),นิสิตสัตวแพทย์,E Book,3913.0
+Central Library (4th Floor),นิสิตอักษร,Book,403843.0
+Central Library (4th Floor),นิสิตอักษร,E Book,42820.0
+Central Library (4th Floor),นิสิตเภสัชฯ,Book,224049.0
+Central Library (4th Floor),นิสิตเภสัชฯ,E Book,13037.0
+Central Library (4th Floor),นิสิตเศรษฐศาสตร์,Book,52180.0
+Central Library (4th Floor),นิสิตเศรษฐศาสตร์,E Book,2379.0
+Central Library (4th Floor),นิสิตแพทย์,Book,89655.0
+Central Library (4th Floor),นิสิตแพทย์,E Book,4670.0
+Central Library (5th Floor),นิสิต,Book,13033.0
+Central Library (5th Floor),นิสิต,E Book,919.0
+Central Library (5th Floor),นิสิตครุ,Book,1500437.0
+Central Library (5th Floor),นิสิตครุ,E Book,50621.0
+Central Library (5th Floor),นิสิตจิตวิทยา,Book,35135.0
+Central Library (5th Floor),นิสิตจิตวิทยา,E Book,7164.0
+Central Library (5th Floor),นิสิตจิตวิทยา,E Reserve 7,51.0
+Central Library (5th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Book,9981.0
+Central Library (5th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,1620.0
+Central Library (5th Floor),นิสิตทันตแพทย์,Book,3386.0
+Central Library (5th Floor),นิสิตทันตแพทย์,E Book,120.0
+Central Library (5th Floor),นิสิตนิติศาสตร์,Book,183468.0
+Central Library (5th Floor),นิสิตนิติศาสตร์,E Book,5067.0
+Central Library (5th Floor),นิสิตนิเทศ,Book,62760.0
+Central Library (5th Floor),นิสิตนิเทศ,E Book,7285.0
+Central Library (5th Floor),นิสิตพาณิช-บัญชี,Book,85959.0
+Central Library (5th Floor),นิสิตพาณิช-บัญชี,E Book,5008.0
+Central Library (5th Floor),นิสิตพาณิช-บัญชี,Reserve 3,238.0
+Central Library (5th Floor),นิสิตรัฐศาสตร์,Book,536760.0
+Central Library (5th Floor),นิสิตรัฐศาสตร์,E Book,23515.0
+Central Library (5th Floor),นิสิตวิทยาศาสตร์,Book,106538.0
+Central Library (5th Floor),นิสิตวิทยาศาสตร์,E Book,7136.0
+Central Library (5th Floor),นิสิตวิทย์-กีฬา,Book,13208.0
+Central Library (5th Floor),นิสิตวิทย์-กีฬา,E Book,112.0
+Central Library (5th Floor),นิสิตวิศวะ,Book,62774.0
+Central Library (5th Floor),นิสิตวิศวะ,E Book,4745.0
+Central Library (5th Floor),นิสิตศิลปกรรม,Book,106355.0
+Central Library (5th Floor),นิสิตศิลปกรรม,E Book,2457.0
+Central Library (5th Floor),นิสิตสถาปัตย์,Book,188820.0
+Central Library (5th Floor),นิสิตสถาปัตย์,E Book,31197.0
+Central Library (5th Floor),นิสิตสถาปัตย์,E Reserve 7,76.0
+Central Library (5th Floor),นิสิตสหเวชศาสตร์,Book,31949.0
+Central Library (5th Floor),นิสิตสหเวชศาสตร์,E Book,273.0
+Central Library (5th Floor),นิสิตสัตวแพทย์,Book,46863.0
+Central Library (5th Floor),นิสิตสัตวแพทย์,E Book,501.0
+Central Library (5th Floor),นิสิตอักษร,Book,499668.0
+Central Library (5th Floor),นิสิตอักษร,E Book,49980.0
+Central Library (5th Floor),นิสิตเภสัชฯ,Book,50683.0
+Central Library (5th Floor),นิสิตเภสัชฯ,E Book,1688.0
+Central Library (5th Floor),นิสิตเศรษฐศาสตร์,Book,136361.0
+Central Library (5th Floor),นิสิตเศรษฐศาสตร์,E Book,3019.0
+Central Library (5th Floor),นิสิตแพทย์,Book,14120.0
+Central Library (5th Floor),นิสิตแพทย์,E Book,1184.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิต,Fulltext CD-ROM,131.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิต,Laser Disc,5118.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิต,Video Disc,76638.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตครุ,Fulltext CD-ROM,1.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตครุ,Video Disc,16294.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตจิตวิทยา,Video Disc,1263.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Video Disc,378.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตทันตแพทย์,Video Disc,1554.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตนิติศาสตร์,Laser Disc,1.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตนิติศาสตร์,Video Disc,901.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตนิเทศ,Video Disc,593.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตพาณิช-บัญชี,Video Disc,1835.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตรัฐศาสตร์,Video Disc,1228.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตวิทยาศาสตร์,Video Disc,10918.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตวิทย์-กีฬา,Video Disc,7117.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตวิศวะ,Video Disc,3108.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตศิลปกรรม,Video Disc,234.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตสถาปัตย์,Video Disc,396.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตสหเวชศาสตร์,Video Disc,1308.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตสัตวแพทย์,Laser Disc,12.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตสัตวแพทย์,Video Disc,878.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตอักษร,Video Disc,3429.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตเภสัชฯ,Video Disc,1487.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตเศรษฐศาสตร์,Laser Disc,1.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตเศรษฐศาสตร์,Video Disc,1092.0
+Central Library : Audio-Visual Collection (3rd Floor),นิสิตแพทย์,Video Disc,625.0
+Central Library : Education Collection,นิสิตครุ,E Book,370.0
+Central Library : Education Collection,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,12.0
+Central Library : Education Collection,นิสิตนิเทศ,E Book,224.0
+Central Library : Education Collection,นิสิตวิศวะ,E Book,36.0
+Central Library : Juvenile Collection (4th Floor),นิสิต,Book,6486.0
+Central Library : Juvenile Collection (4th Floor),นิสิตครุ,Book,109810.0
+Central Library : Juvenile Collection (4th Floor),นิสิตครุ,E Book,10663.0
+Central Library : Juvenile Collection (4th Floor),นิสิตจิตวิทยา,Book,2259.0
+Central Library : Juvenile Collection (4th Floor),นิสิตจิตวิทยา,E Book,480.0
+Central Library : Juvenile Collection (4th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Book,1574.0
+Central Library : Juvenile Collection (4th Floor),นิสิตนิติศาสตร์,Book,2792.0
+Central Library : Juvenile Collection (4th Floor),นิสิตนิติศาสตร์,E Book,602.0
+Central Library : Juvenile Collection (4th Floor),นิสิตนิเทศ,Book,3493.0
+Central Library : Juvenile Collection (4th Floor),นิสิตพาณิช-บัญชี,Book,4710.0
+Central Library : Juvenile Collection (4th Floor),นิสิตพาณิช-บัญชี,E Book,972.0
+Central Library : Juvenile Collection (4th Floor),นิสิตรัฐศาสตร์,Book,3224.0
+Central Library : Juvenile Collection (4th Floor),นิสิตรัฐศาสตร์,E Book,265.0
+Central Library : Juvenile Collection (4th Floor),นิสิตวิทยาศาสตร์,Book,18854.0
+Central Library : Juvenile Collection (4th Floor),นิสิตวิทยาศาสตร์,E Book,5375.0
+Central Library : Juvenile Collection (4th Floor),นิสิตวิศวะ,Book,767.0
+Central Library : Juvenile Collection (4th Floor),นิสิตวิศวะ,E Book,2722.0
+Central Library : Juvenile Collection (4th Floor),นิสิตศิลปกรรม,Book,3454.0
+Central Library : Juvenile Collection (4th Floor),นิสิตสถาปัตย์,Book,8118.0
+Central Library : Juvenile Collection (4th Floor),นิสิตสถาปัตย์,E Book,1670.0
+Central Library : Juvenile Collection (4th Floor),นิสิตสหเวชศาสตร์,Book,252.0
+Central Library : Juvenile Collection (4th Floor),นิสิตสัตวแพทย์,Book,1287.0
+Central Library : Juvenile Collection (4th Floor),นิสิตสัตวแพทย์,E Book,189.0
+Central Library : Juvenile Collection (4th Floor),นิสิตอักษร,Book,13560.0
+Central Library : Juvenile Collection (4th Floor),นิสิตอักษร,E Book,378.0
+Central Library : Juvenile Collection (4th Floor),นิสิตเภสัชฯ,Book,2755.0
+Central Library : Juvenile Collection (4th Floor),นิสิตเภสัชฯ,E Book,76.0
+Central Library : Juvenile Collection (4th Floor),นิสิตเศรษฐศาสตร์,Book,3551.0
+Central Library : Juvenile Collection (4th Floor),นิสิตเศรษฐศาสตร์,E Book,35.0
+Central Library : Juvenile Collection (4th Floor),นิสิตแพทย์,Book,208.0
+Central Library : Juvenile Collection (4th Floor),นิสิตแพทย์,E Book,40.0
+Central Library : King Chulalongkorn Collection (7th Floor),นิสิตครุ,Book,1059.0
+Central Library : King Chulalongkorn Collection (7th Floor),นิสิตรัฐศาสตร์,Book,51.0
+Central Library : King Chulalongkorn Collection (7th Floor),นิสิตวิทยาศาสตร์,Book,95.0
+Central Library : King Chulalongkorn Collection (7th Floor),นิสิตอักษร,Book,1322.0
+Central Library : Oversized Book (5th Floor),นิสิตครุ,Book,96.0
+Central Library : Oversized Book (5th Floor),นิสิตสถาปัตย์,Book,352.0
+Central Library : Oversized Book (5th Floor),นิสิตสถาปัตย์,E Book,344.0
+Central Library : Oversized Book (5th Floor),นิสิตสหเวชศาสตร์,Book,144.0
+Central Library : Oversized Book (5th Floor),นิสิตอักษร,Book,544.0
+Central Library : Reference Collection,นิสิตครุ,Book,583.0
+Central Library : Reference Collection,นิสิตนิเทศ,Book for Staff,33.0
+Central Library : Reference Collection,นิสิตนิเทศ,E Reference Book,14.0
+Central Library : Reference Collection,นิสิตนิเทศ,Reference Book,132.0
+Central Library : Reference Collection,นิสิตรัฐศาสตร์,Book,17.0
+Central Library : Reference Collection,นิสิตรัฐศาสตร์,E Reference Book,40.0
+Central Library : Reference Collection,นิสิตรัฐศาสตร์,Reference Book,88.0
+Central Library : Reference Collection,นิสิตอักษร,Book for Staff,22.0
+Central Library : Reference Collection,นิสิตอักษร,Reference Book,65.0
+Central Library : Reference Collection at Stack (Contact Staff),นิสิตครุ,Book,256.0
+Central Library : Reference Collection at Stack (Contact Staff),นิสิตครุ,Reference Book,25.0
+Central Library : Reserve Collection (1st Floor),นิสิต,E Reserve 7,366.0
+Central Library : Reserve Collection (1st Floor),นิสิตครุ,E Reserve 7,7382.0
+Central Library : Reserve Collection (1st Floor),นิสิตครุ,Reserve 7,1863.0
+Central Library : Reserve Collection (1st Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Reserve 7,283.0
+Central Library : Reserve Collection (1st Floor),นิสิตนิติศาสตร์,E Reserve 7,54.0
+Central Library : Reserve Collection (1st Floor),นิสิตนิเทศ,E Reserve 7,1895.0
+Central Library : Reserve Collection (1st Floor),นิสิตนิเทศ,Reserve 7,777.0
+Central Library : Reserve Collection (1st Floor),นิสิตรัฐศาสตร์,Reserve 7,1266.0
+Central Library : Reserve Collection (1st Floor),นิสิตวิทยาศาสตร์,Reserve 7,204.0
+Central Library : Reserve Collection (1st Floor),นิสิตวิศวะ,E Reserve 7,562.0
+Central Library : Reserve Collection (1st Floor),นิสิตศิลปกรรม,E Reserve 7,1040.0
+Central Library : Reserve Collection (1st Floor),นิสิตศิลปกรรม,Reserve 7,5134.0
+Central Library : Reserve Collection (1st Floor),นิสิตสถาปัตย์,E Reserve 7,16127.0
+Central Library : Reserve Collection (1st Floor),นิสิตสถาปัตย์,Reserve 7,2481.0
+Central Library : Reserve Collection (1st Floor),นิสิตสหเวชศาสตร์,Reserve 7,58.0
+Central Library : Reserve Collection (1st Floor),นิสิตสัตวแพทย์,E Reserve 7,150.0
+Central Library : Reserve Collection (1st Floor),นิสิตสัตวแพทย์,Reserve 7,1084.0
+Central Library : Reserve Collection (1st Floor),นิสิตอักษร,E Reserve 7,1261.0
+Central Library : Reserve Collection (1st Floor),นิสิตอักษร,Reserve 7,728.0
+Central Library : Reserve Collection (1st Floor),นิสิตแพทย์,Reserve 7,72.0
+Central Library : Reserve Collection at Stack (Contact Staff),นิสิตนิเทศ,Reserve 7,1162.0
+Central Library : Reserve Collection at Stack (Contact Staff),นิสิตศิลปกรรม,Reserve 7,72.0
+Central Library : Reserve Collection at Stack (Contact Staff),นิสิตสถาปัตย์,Reserve 7,60.0
+Central Library : Reserve Collection at Stack (Contact Staff),นิสิตอักษร,Reserve 7,191.0
+Central Library : Russian Center (5th floor),นิสิตรัฐศาสตร์,E Book,423.0
+Central Library : Stack (Contact Staff),นิสิต,Book,7336.0
+Central Library : Stack (Contact Staff),นิสิตครุ,Book,423233.0
+Central Library : Stack (Contact Staff),นิสิตครุ,E Book,2717.0
+Central Library : Stack (Contact Staff),นิสิตจิตวิทยา,Book,3262.0
+Central Library : Stack (Contact Staff),นิสิตจิตวิทยา,E Book,397.0
+Central Library : Stack (Contact Staff),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Book,2414.0
+Central Library : Stack (Contact Staff),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,65.0
+Central Library : Stack (Contact Staff),นิสิตทันตแพทย์,Book,430.0
+Central Library : Stack (Contact Staff),นิสิตนิติศาสตร์,Book,11834.0
+Central Library : Stack (Contact Staff),นิสิตนิติศาสตร์,E Book,183.0
+Central Library : Stack (Contact Staff),นิสิตนิเทศ,Book,7196.0
+Central Library : Stack (Contact Staff),นิสิตนิเทศ,E Book,1156.0
+Central Library : Stack (Contact Staff),นิสิตพาณิช-บัญชี,Book,7656.0
+Central Library : Stack (Contact Staff),นิสิตพาณิช-บัญชี,E Book,572.0
+Central Library : Stack (Contact Staff),นิสิตรัฐศาสตร์,Book,13398.0
+Central Library : Stack (Contact Staff),นิสิตรัฐศาสตร์,E Book,2422.0
+Central Library : Stack (Contact Staff),นิสิตวิทยาศาสตร์,Book,54451.0
+Central Library : Stack (Contact Staff),นิสิตวิทย์-กีฬา,Book,2773.0
+Central Library : Stack (Contact Staff),นิสิตวิศวะ,Book,10688.0
+Central Library : Stack (Contact Staff),นิสิตวิศวะ,E Book,494.0
+Central Library : Stack (Contact Staff),นิสิตศิลปกรรม,Book,17666.0
+Central Library : Stack (Contact Staff),นิสิตสถาปัตย์,Book,33708.0
+Central Library : Stack (Contact Staff),นิสิตสถาปัตย์,E Book,817.0
+Central Library : Stack (Contact Staff),นิสิตสหเวชศาสตร์,Book,19570.0
+Central Library : Stack (Contact Staff),นิสิตสัตวแพทย์,Book,5900.0
+Central Library : Stack (Contact Staff),นิสิตสัตวแพทย์,E Book,96.0
+Central Library : Stack (Contact Staff),นิสิตอักษร,Book,46356.0
+Central Library : Stack (Contact Staff),นิสิตอักษร,E Book,4325.0
+Central Library : Stack (Contact Staff),นิสิตเภสัชฯ,Book,71900.0
+Central Library : Stack (Contact Staff),นิสิตเศรษฐศาสตร์,Book,11387.0
+Central Library : Stack (Contact Staff),นิสิตเศรษฐศาสตร์,E Book,1288.0
+Central Library : Stack (Contact Staff),นิสิตแพทย์,Book,780.0
+Central Library @ Chamchuri 10,นิสิต,Book,78.0
+Central Library @ Chamchuri 10,นิสิต,E Book,11.0
+Central Library @ Chamchuri 10,นิสิตครุ,Book,8553.0
+Central Library @ Chamchuri 10,นิสิตครุ,E Book,978.0
+Central Library @ Chamchuri 10,นิสิตจิตวิทยา,Book,8281.0
+Central Library @ Chamchuri 10,นิสิตจิตวิทยา,E Book,6102.0
+Central Library @ Chamchuri 10,นิสิตทันตแพทย์,Book,48.0
+Central Library @ Chamchuri 10,นิสิตนิติศาสตร์,Book,1.0
+Central Library @ Chamchuri 10,นิสิตนิเทศ,Book,5.0
+Central Library @ Chamchuri 10,นิสิตนิเทศ,E Book,98.0
+Central Library @ Chamchuri 10,นิสิตพาณิช-บัญชี,Book,1737.0
+Central Library @ Chamchuri 10,นิสิตพาณิช-บัญชี,E Book,176.0
+Central Library @ Chamchuri 10,นิสิตรัฐศาสตร์,Book,1759.0
+Central Library @ Chamchuri 10,นิสิตรัฐศาสตร์,E Book,652.0
+Central Library @ Chamchuri 10,นิสิตวิทยาศาสตร์,E Book,1776.0
+Central Library @ Chamchuri 10,นิสิตวิทย์-กีฬา,Book,6618.0
+Central Library @ Chamchuri 10,นิสิตวิทย์-กีฬา,E Book,3962.0
+Central Library @ Chamchuri 10,นิสิตวิศวะ,Book,100.0
+Central Library @ Chamchuri 10,นิสิตศิลปกรรม,Book,3854.0
+Central Library @ Chamchuri 10,นิสิตศิลปกรรม,E Book,60.0
+Central Library @ Chamchuri 10,นิสิตสถาปัตย์,Book,869.0
+Central Library @ Chamchuri 10,นิสิตสถาปัตย์,E Book,53.0
+Central Library @ Chamchuri 10,นิสิตสหเวชศาสตร์,Book,20126.0
+Central Library @ Chamchuri 10,นิสิตสหเวชศาสตร์,E Book,2964.0
+Central Library @ Chamchuri 10,นิสิตอักษร,Book,1067.0
+Central Library @ Chamchuri 10,นิสิตอักษร,E Book,1493.0
+Central Library @ Chamchuri 10,นิสิตเภสัชฯ,Book,6198.0
+Central Library @ Chamchuri 10,นิสิตเภสัชฯ,E Book,396.0
+Central Library @ Chamchuri 10,นิสิตเศรษฐศาสตร์,E Book,62.0
+Central Library @ Chamchuri 10,นิสิตแพทย์,Book,33.0
+Central Library @ Chamchuri 10,นิสิตแพทย์,E Book,464.0
+Central Library @ Chamchuri 9,นิสิตครุ,Board game,1713.0
+Central Library @ Chamchuri 9,นิสิตจิตวิทยา,Board game,1.0
+Central Library @ Chamchuri 9,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Board game,9.0
+Central Library @ Chamchuri 9,นิสิตนิติศาสตร์,Board game,86.0
+Central Library @ Chamchuri 9,นิสิตนิเทศ,Board game,255.0
+Central Library @ Chamchuri 9,นิสิตพาณิช-บัญชี,Board game,313.0
+Central Library @ Chamchuri 9,นิสิตรัฐศาสตร์,Board game,60.0
+Central Library @ Chamchuri 9,นิสิตวิทยาศาสตร์,Board game,3296.0
+Central Library @ Chamchuri 9,นิสิตวิทย์-กีฬา,Board game,60.0
+Central Library @ Chamchuri 9,นิสิตวิศวะ,Board game,3341.0
+Central Library @ Chamchuri 9,นิสิตศิลปกรรม,Board game,36.0
+Central Library @ Chamchuri 9,นิสิตสหเวชศาสตร์,Board game,203.0
+Central Library @ Chamchuri 9,นิสิตสัตวแพทย์,Board game,8.0
+Central Library @ Chamchuri 9,นิสิตอักษร,Board game,48.0
+Central Library @ Chamchuri 9,นิสิตเภสัชฯ,Board game,262.0
+Central Library @ Chamchuri 9,นิสิตเศรษฐศาสตร์,Board game,47.0
+Central Library @ Chamchuri 9,นิสิตแพทย์,Board game,110.0
+Chula Business School Library,นิสิตครุ,Book,9781.0
+Chula Business School Library,นิสิตครุ,E Book,712.0
+Chula Business School Library,นิสิตจิตวิทยา,E Book,271.0
+Chula Business School Library,นิสิตนิติศาสตร์,Book,5473.0
+Chula Business School Library,นิสิตนิติศาสตร์,E Book,4955.0
+Chula Business School Library,นิสิตนิเทศ,Book,1464.0
+Chula Business School Library,นิสิตนิเทศ,E Book,335.0
+Chula Business School Library,นิสิตพาณิช-บัญชี,Book,355829.0
+Chula Business School Library,นิสิตพาณิช-บัญชี,E Book,46862.0
+Chula Business School Library,นิสิตรัฐศาสตร์,Book,1795.0
+Chula Business School Library,นิสิตวิทยาศาสตร์,Book,338.0
+Chula Business School Library,นิสิตวิทยาศาสตร์,E Book,240.0
+Chula Business School Library,นิสิตวิศวะ,E Book,2538.0
+Chula Business School Library,นิสิตศิลปกรรม,E Book,105.0
+Chula Business School Library,นิสิตสถาปัตย์,Book,1208.0
+Chula Business School Library,นิสิตสถาปัตย์,E Book,184.0
+Chula Business School Library,นิสิตสหเวชศาสตร์,Book,304.0
+Chula Business School Library,นิสิตสหเวชศาสตร์,E Book,76.0
+Chula Business School Library,นิสิตสัตวแพทย์,Book,460.0
+Chula Business School Library,นิสิตอักษร,Book,875.0
+Chula Business School Library,นิสิตอักษร,E Book,270.0
+Chula Business School Library,นิสิตเภสัชฯ,Book,74.0
+Chula Business School Library,นิสิตเภสัชฯ,E Book,480.0
+Chula Business School Library,นิสิตเศรษฐศาสตร์,Book,8521.0
+Chula Business School Library,นิสิตเศรษฐศาสตร์,E Book,3421.0
+Chula Business School Library,นิสิตแพทย์,Book,481.0
+Chula Business School Library,นิสิตแพทย์,E Book,1080.0
+Chula Business School Library : Audio-Visual Collection,นิสิตนิติศาสตร์,Software CD-ROM,3.0
+Chula Business School Library : Audio-Visual Collection,นิสิตพาณิช-บัญชี,Software CD-ROM,529.0
+Chula Business School Library : Reserve Collection,นิสิตครุ,Book,350.0
+Chula Business School Library : Reserve Collection,นิสิตพาณิช-บัญชี,Book,760.0
+Chula Business School Library : Reserve Collection,นิสิตพาณิช-บัญชี,E Book,2475.0
+Chula Business School Library : Reserve Collection,นิสิตพาณิช-บัญชี,E Reserve 3,1164.0
+Chula Business School Library : Reserve Collection,นิสิตพาณิช-บัญชี,Reserve 3,44.0
+Chula Business School Library : Reserve Collection,นิสิตสถาปัตย์,Book,897.0
+Chula Business School Library : Thesis,นิสิตพาณิช-บัญชี,Thesis,173.0
+College of Public Health Sciences Library,นิสิตนิติศาสตร์,Book,20.0
+College of Public Health Sciences Library,นิสิตรัฐศาสตร์,Book,107.0
+College of Public Health Sciences Library,นิสิตอักษร,Book,80.0
+College of Public Health Sciences Library,นิสิตแพทย์,E Book,36.0
+Communication Arts  Library,นิสิตครุ,Book,1897.0
+Communication Arts  Library,นิสิตครุ,E Book,428.0
+Communication Arts  Library,นิสิตจิตวิทยา,Book,5.0
+Communication Arts  Library,นิสิตนิติศาสตร์,Book,203.0
+Communication Arts  Library,นิสิตนิเทศ,Book,21952.0
+Communication Arts  Library,นิสิตนิเทศ,E Book,10073.0
+Communication Arts  Library,นิสิตพาณิช-บัญชี,Book,1397.0
+Communication Arts  Library,นิสิตรัฐศาสตร์,Book,3623.0
+Communication Arts  Library,นิสิตรัฐศาสตร์,E Book,120.0
+Communication Arts  Library,นิสิตวิศวะ,Book,280.0
+Communication Arts  Library,นิสิตสถาปัตย์,E Book,57.0
+Communication Arts  Library,นิสิตอักษร,Book,1196.0
+Communication Arts  Library,นิสิตอักษร,E Book,1163.0
+Communication Arts  Library,นิสิตเภสัชฯ,E Book,120.0
+Communication Arts  Library,นิสิตเศรษฐศาสตร์,E Book,90.0
+Communication Arts  Library,นิสิตแพทย์,E Book,99.0
+Communication Arts  Library : Research Collection,นิสิตนิเทศ,Book,702.0
+Communication Arts  Library : Thesis,นิสิตนิเทศ,Thesis,1337.0
+Dentistry Library,นิสิตทันตแพทย์,Book,10432.0
+Dentistry Library,นิสิตทันตแพทย์,E Book,11247.0
+Dentistry Library,นิสิตนิติศาสตร์,Book,12.0
+Dentistry Library,นิสิตศิลปกรรม,Book,67.0
+Dentistry Library,นิสิตศิลปกรรม,Reserve 7,15.0
+Dentistry Library,นิสิตสหเวชศาสตร์,Book,64.0
+Dentistry Library,นิสิตสหเวชศาสตร์,E Book,65.0
+Dentistry Library,นิสิตสัตวแพทย์,Book,2431.0
+Dentistry Library,นิสิตสัตวแพทย์,E Book,70.0
+Dentistry Library,นิสิตอักษร,Book,12.0
+Dentistry Library,นิสิตเภสัชฯ,Book,756.0
+Dentistry Library,นิสิตเภสัชฯ,E Book,184.0
+Dentistry Library,นิสิตเศรษฐศาสตร์,Book,593.0
+Dentistry Library,นิสิตแพทย์,Book,140.0
+Dentistry Library,นิสิตแพทย์,E Book,129.0
+Economics Library,นิสิตครุ,Book,5721.0
+Economics Library,นิสิตครุ,E Book,2836.0
+Economics Library,นิสิตจิตวิทยา,E Book,1670.0
+Economics Library,นิสิตนิติศาสตร์,Book,9002.0
+Economics Library,นิสิตนิติศาสตร์,E Book,393.0
+Economics Library,นิสิตนิเทศ,Book,338.0
+Economics Library,นิสิตนิเทศ,E Book,1439.0
+Economics Library,นิสิตพาณิช-บัญชี,Book,13912.0
+Economics Library,นิสิตพาณิช-บัญชี,E Book,4733.0
+Economics Library,นิสิตรัฐศาสตร์,Book,5843.0
+Economics Library,นิสิตรัฐศาสตร์,E Book,3168.0
+Economics Library,นิสิตวิทยาศาสตร์,E Book,44.0
+Economics Library,นิสิตวิศวะ,Book,1180.0
+Economics Library,นิสิตสถาปัตย์,Book,234.0
+Economics Library,นิสิตสถาปัตย์,E Book,184.0
+Economics Library,นิสิตสัตวแพทย์,Book,480.0
+Economics Library,นิสิตสัตวแพทย์,E Book,60.0
+Economics Library,นิสิตอักษร,Book,1131.0
+Economics Library,นิสิตอักษร,E Book,376.0
+Economics Library,นิสิตเภสัชฯ,Book,702.0
+Economics Library,นิสิตเภสัชฯ,E Book,35.0
+Economics Library,นิสิตเศรษฐศาสตร์,Book,105442.0
+Economics Library,นิสิตเศรษฐศาสตร์,E Book,67762.0
+Economics Library,นิสิตแพทย์,E Book,120.0
+Education Library,นิสิตครุ,Book,812900.0
+Education Library,นิสิตครุ,E Book,74729.0
+Education Library,นิสิตจิตวิทยา,E Book,399.0
+Education Library,นิสิตนิติศาสตร์,E Book,1983.0
+Education Library,นิสิตนิเทศ,Book,300.0
+Education Library,นิสิตนิเทศ,E Book,101.0
+Education Library,นิสิตพาณิช-บัญชี,Book,581.0
+Education Library,นิสิตพาณิช-บัญชี,E Book,72.0
+Education Library,นิสิตรัฐศาสตร์,Book,3359.0
+Education Library,นิสิตรัฐศาสตร์,E Book,434.0
+Education Library,นิสิตวิทยาศาสตร์,Book,528.0
+Education Library,นิสิตวิทยาศาสตร์,E Book,91.0
+Education Library,นิสิตวิศวะ,E Book,88.0
+Education Library,นิสิตศิลปกรรม,Book,1322.0
+Education Library,นิสิตสถาปัตย์,Book,383.0
+Education Library,นิสิตสถาปัตย์,E Book,695.0
+Education Library,นิสิตสหเวชศาสตร์,Book,1453.0
+Education Library,นิสิตสหเวชศาสตร์,E Book,87.0
+Education Library,นิสิตสัตวแพทย์,Book,970.0
+Education Library,นิสิตอักษร,Book,4327.0
+Education Library,นิสิตอักษร,E Book,1380.0
+Education Library,นิสิตเภสัชฯ,Book,722.0
+Education Library,นิสิตเภสัชฯ,E Book,160.0
+Education Library : Bachelor Project,นิสิตครุ,Book,603.0
+Education Library : Curiculum Lab,นิสิตครุ,Book,5524.0
+Education Library : Curiculum Lab,นิสิตครุ,E Book,50.0
+Education Library : Curiculum Lab,นิสิตครุ,E Special Collection,28649.0
+Education Library : Curiculum Lab,นิสิตครุ,Special Collection,257401.0
+Education Library : Curiculum Lab,นิสิตจิตวิทยา,Special Collection,429.0
+Education Library : Curiculum Lab,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,Special Collection,276.0
+Education Library : Curiculum Lab,นิสิตนิติศาสตร์,Special Collection,225.0
+Education Library : Curiculum Lab,นิสิตพาณิช-บัญชี,E Special Collection,24.0
+Education Library : Curiculum Lab,นิสิตพาณิช-บัญชี,Special Collection,1414.0
+Education Library : Curiculum Lab,นิสิตรัฐศาสตร์,E Special Collection,108.0
+Education Library : Curiculum Lab,นิสิตรัฐศาสตร์,Special Collection,1178.0
+Education Library : Curiculum Lab,นิสิตวิทยาศาสตร์,Special Collection,169.0
+Education Library : Curiculum Lab,นิสิตสถาปัตย์,Special Collection,13.0
+Education Library : Curiculum Lab,นิสิตอักษร,Special Collection,875.0
+Education Library : EDU Chula Collection,นิสิตครุ,Book,160.0
+Education Library : EDU Chula Collection,นิสิตครุ,Special Collection,15613.0
+Education Library : Juvenile Collection,นิสิตครุ,Book,43744.0
+Education Library : Juvenile Collection,นิสิตครุ,E Book,5025.0
+Education Library : Juvenile Collection,นิสิตพาณิช-บัญชี,E Book,39.0
+Education Library : Juvenile Collection,นิสิตอักษร,Book,130.0
+Education Library : Juvenile Collection,นิสิตอักษร,E Book,119.0
+Education Library : Multimedia Section,นิสิตครุ,Book,26.0
+Education Library : Reference Collection,นิสิตครุ,Book,578.0
+Education Library : Reference Collection,นิสิตครุ,Reference Book,62.0
+Education Library : Research Collection,นิสิตครุ,Book,168.0
+Education Library : Research Collection,นิสิตครุ,Special Collection,17671.0
+Education Library : Research Collection,นิสิตอักษร,Special Collection,100.0
+Education Library : Reserve Collection,นิสิตครุ,Book,84.0
+Education Library : Reserve Collection,นิสิตครุ,E Reserve 7,102.0
+Education Library : Stack,นิสิตครุ,Book,839.0
+Education Library : Stack,นิสิตรัฐศาสตร์,Book,77.0
+Education Library : Stack,นิสิตอักษร,Book,17.0
+Engineering Library,นิสิต,Book,261.0
+Engineering Library,นิสิต,E Book,177.0
+Engineering Library,นิสิตจิตวิทยา,Book,128.0
+Engineering Library,นิสิตทันตแพทย์,Book,570.0
+Engineering Library,นิสิตนิติศาสตร์,Book,280.0
+Engineering Library,นิสิตนิติศาสตร์,E Book,60.0
+Engineering Library,นิสิตนิเทศ,Book,1572.0
+Engineering Library,นิสิตนิเทศ,E Book,44.0
+Engineering Library,นิสิตพาณิช-บัญชี,Book,1356.0
+Engineering Library,นิสิตพาณิช-บัญชี,E Book,231.0
+Engineering Library,นิสิตรัฐศาสตร์,Book,40.0
+Engineering Library,นิสิตรัฐศาสตร์,E Book,137.0
+Engineering Library,นิสิตวิทยาศาสตร์,Book,4791.0
+Engineering Library,นิสิตวิทยาศาสตร์,E Book,700.0
+Engineering Library,นิสิตวิทย์-กีฬา,Book,117.0
+Engineering Library,นิสิตวิศวะ,Book,135454.0
+Engineering Library,นิสิตวิศวะ,E Book,102210.0
+Engineering Library,นิสิตศิลปกรรม,Book,216.0
+Engineering Library,นิสิตสถาปัตย์,Book,739.0
+Engineering Library,นิสิตสถาปัตย์,E Book,182.0
+Engineering Library,นิสิตสหเวชศาสตร์,Book,3057.0
+Engineering Library,นิสิตสัตวแพทย์,Book,925.0
+Engineering Library,นิสิตอักษร,E Book,49.0
+Engineering Library,นิสิตเภสัชฯ,Book,1300.0
+Engineering Library,นิสิตเภสัชฯ,E Book,98.0
+Engineering Library,นิสิตเศรษฐศาสตร์,Book,735.0
+Engineering Library,นิสิตเศรษฐศาสตร์,E Book,222.0
+Engineering Library,นิสิตแพทย์,E Book,18.0
+Engineering Library : Stack,นิสิตวิทยาศาสตร์,E Book,143.0
+Engineering Library : Stack,นิสิตวิศวะ,Book,1211.0
+Engineering Library : Stack,นิสิตวิศวะ,E Book,443.0
+Engineering Library : Stack,นิสิตสถาปัตย์,Book,174.0
+Engineering Library : Stack,นิสิตอักษร,Book,8.0
+Environmental Research Institute Library,นิสิตครุ,Book,16.0
+Environmental Research Institute Library,นิสิตนิติศาสตร์,Book,10.0
+Environmental Research Institute Library,นิสิตรัฐศาสตร์,E Book,44.0
+Environmental Research Institute Library,นิสิตวิศวะ,Book,60.0
+Environmental Research Institute Library,นิสิตสถาปัตย์,E Book,18.0
+Environmental Research Institute Library,นิสิตอักษร,Book,240.0
+Fine & Applied Arts Library,นิสิตครุ,Book,581.0
+Fine & Applied Arts Library,นิสิตครุ,E Book,55.0
+Fine & Applied Arts Library,นิสิตจิตวิทยา,E Book,9.0
+Fine & Applied Arts Library,นิสิตนิเทศ,Book,76.0
+Fine & Applied Arts Library,นิสิตรัฐศาสตร์,Book,500.0
+Fine & Applied Arts Library,นิสิตศิลปกรรม,Book,42941.0
+Fine & Applied Arts Library,นิสิตศิลปกรรม,E Book,1421.0
+Fine & Applied Arts Library,นิสิตศิลปกรรม,Thesis,84.0
+Fine & Applied Arts Library,นิสิตสถาปัตย์,Book,1153.0
+Fine & Applied Arts Library,นิสิตสถาปัตย์,E Book,1976.0
+Fine & Applied Arts Library,นิสิตอักษร,Book,964.0
+Fine & Applied Arts Library,นิสิตอักษร,E Book,9.0
+Fine & Applied Arts Library : Reference Collection,นิสิตศิลปกรรม,Reserve 3,216.0
+Fine & Applied Arts Library : Research Collection,นิสิตครุ,Reserve 3,520.0
+Fine & Applied Arts Library : Research Collection,นิสิตครุ,Thesis,6.0
+Fine & Applied Arts Library : Research Collection,นิสิตรัฐศาสตร์,Reserve 3,10.0
+Fine & Applied Arts Library : Research Collection,นิสิตศิลปกรรม,Reserve 3,5705.0
+Fine & Applied Arts Library : Research Collection,นิสิตศิลปกรรม,Thesis,22.0
+Fine & Applied Arts Library : Research Collection,นิสิตสถาปัตย์,Reserve 3,71.0
+Fine & Applied Arts Library : Reserve Collection,นิสิตครุ,Reserve 3,105.0
+Fine & Applied Arts Library : Reserve Collection,นิสิตศิลปกรรม,Reserve 3,929.0
+Fine & Applied Arts Library : Reserve Collection,นิสิตสถาปัตย์,Book,1087.0
+Language Institute Library : SALC,นิสิตครุ,Book,727.0
+Language Institute Library : SALC,นิสิตครุ,E Book,25623.0
+Language Institute Library : SALC,นิสิตจิตวิทยา,Book,143.0
+Language Institute Library : SALC,นิสิตจิตวิทยา,E Book,5216.0
+Language Institute Library : SALC,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,4873.0
+Language Institute Library : SALC,นิสิตทันตแพทย์,E Book,6140.0
+Language Institute Library : SALC,นิสิตนิติศาสตร์,E Book,9145.0
+Language Institute Library : SALC,นิสิตนิเทศ,E Book,6805.0
+Language Institute Library : SALC,นิสิตพาณิช-บัญชี,Book,81.0
+Language Institute Library : SALC,นิสิตพาณิช-บัญชี,E Book,25189.0
+Language Institute Library : SALC,นิสิตพาณิช-บัญชี,E Book for Staff,60.0
+Language Institute Library : SALC,นิสิตรัฐศาสตร์,Book,428.0
+Language Institute Library : SALC,นิสิตรัฐศาสตร์,E Book,9173.0
+Language Institute Library : SALC,นิสิตรัฐศาสตร์,E Book for Staff,108.0
+Language Institute Library : SALC,นิสิตวิทยาศาสตร์,Book,423.0
+Language Institute Library : SALC,นิสิตวิทยาศาสตร์,E Book,20391.0
+Language Institute Library : SALC,นิสิตวิทย์-กีฬา,E Book,206.0
+Language Institute Library : SALC,นิสิตวิศวะ,Book,268.0
+Language Institute Library : SALC,นิสิตวิศวะ,E Book,13421.0
+Language Institute Library : SALC,นิสิตสถาปัตย์,E Book,1453.0
+Language Institute Library : SALC,นิสิตสหเวชศาสตร์,Book,140.0
+Language Institute Library : SALC,นิสิตสหเวชศาสตร์,E Book,12631.0
+Language Institute Library : SALC,นิสิตสัตวแพทย์,Book,288.0
+Language Institute Library : SALC,นิสิตสัตวแพทย์,E Book,5242.0
+Language Institute Library : SALC,นิสิตอักษร,E Book,1409.0
+Language Institute Library : SALC,นิสิตเภสัชฯ,Book,140.0
+Language Institute Library : SALC,นิสิตเภสัชฯ,E Book,5328.0
+Language Institute Library : SALC,นิสิตเศรษฐศาสตร์,Book,143.0
+Language Institute Library : SALC,นิสิตเศรษฐศาสตร์,E Book,9331.0
+Language Institute Library : SALC,นิสิตแพทย์,E Book,3391.0
+Law Library (3rd Floor),นิสิต,Book,453.0
+Law Library (3rd Floor),นิสิตครุ,Book,7767.0
+Law Library (3rd Floor),นิสิตจิตวิทยา,Book,780.0
+Law Library (3rd Floor),นิสิตทันตแพทย์,Book,5085.0
+Law Library (3rd Floor),นิสิตนิติศาสตร์,Book,1653552.0
+Law Library (3rd Floor),นิสิตนิติศาสตร์,E Book,15045.0
+Law Library (3rd Floor),นิสิตนิเทศ,Book,759.0
+Law Library (3rd Floor),นิสิตพาณิช-บัญชี,Book,17740.0
+Law Library (3rd Floor),นิสิตรัฐศาสตร์,Book,11712.0
+Law Library (3rd Floor),นิสิตรัฐศาสตร์,E Book,433.0
+Law Library (3rd Floor),นิสิตวิทยาศาสตร์,Book,14042.0
+Law Library (3rd Floor),นิสิตวิศวะ,Book,5127.0
+Law Library (3rd Floor),นิสิตสถาปัตย์,Book,1584.0
+Law Library (3rd Floor),นิสิตสหเวชศาสตร์,Book,3963.0
+Law Library (3rd Floor),นิสิตสัตวแพทย์,Book,3823.0
+Law Library (3rd Floor),นิสิตอักษร,Book,9121.0
+Law Library (3rd Floor),นิสิตอักษร,E Book,104.0
+Law Library (3rd Floor),นิสิตเภสัชฯ,Book,2469.0
+Law Library (3rd Floor),นิสิตเศรษฐศาสตร์,Book,1640.0
+Law Library (3rd Floor),นิสิตแพทย์,Book,6416.0
+Law Library (4th Floor),นิสิตครุ,Book,144.0
+Law Library (4th Floor),นิสิตนิติศาสตร์,Book,25690.0
+Law Library (4th Floor),นิสิตนิติศาสตร์,E Book,13333.0
+Law Library (4th Floor),นิสิตพาณิช-บัญชี,Book,867.0
+Law Library (4th Floor),นิสิตรัฐศาสตร์,Book,1756.0
+Law Library (4th Floor),นิสิตรัฐศาสตร์,E Book,36.0
+Law Library (4th Floor),นิสิตวิทยาศาสตร์,Book,120.0
+Law Library (4th Floor),นิสิตอักษร,Book,946.0
+Law Library (4th Floor),นิสิตอักษร,E Book,240.0
+Law Library (4th Floor),นิสิตเศรษฐศาสตร์,Book,145.0
+Law Library : Reference Collection (3rd Floor),นิสิตนิติศาสตร์,E Reference Book,16.0
+Law Library : Research Collection,นิสิตนิติศาสตร์,Book,58.0
+Law Library : Thesis (4th  Floor),นิสิตนิติศาสตร์,Thesis,9651.0
+Law Library : Thesis (4th  Floor),นิสิตรัฐศาสตร์,Thesis,26.0
+Medicine Library,นิสิตครุ,Book,28.0
+Medicine Library,นิสิตครุ,E Book,17.0
+Medicine Library,นิสิตทันตแพทย์,E Book,13.0
+Medicine Library,นิสิตนิติศาสตร์,Book,798.0
+Medicine Library,นิสิตพาณิช-บัญชี,Book,20.0
+Medicine Library,นิสิตรัฐศาสตร์,Book,98.0
+Medicine Library,นิสิตรัฐศาสตร์,E Book,180.0
+Medicine Library,นิสิตวิทยาศาสตร์,Book,102.0
+Medicine Library,นิสิตวิทยาศาสตร์,E Book,1313.0
+Medicine Library,นิสิตวิทย์-กีฬา,Book,84.0
+Medicine Library,นิสิตวิทย์-กีฬา,E Book,125.0
+Medicine Library,นิสิตวิศวะ,E Book,280.0
+Medicine Library,นิสิตศิลปกรรม,Book,52.0
+Medicine Library,นิสิตสถาปัตย์,Book,90.0
+Medicine Library,นิสิตสหเวชศาสตร์,Book,430.0
+Medicine Library,นิสิตสัตวแพทย์,E Book,24.0
+Medicine Library,นิสิตอักษร,Book,706.0
+Medicine Library,นิสิตอักษร,E Book,617.0
+Medicine Library,นิสิตเภสัชฯ,Book,1529.0
+Medicine Library,นิสิตเภสัชฯ,E Book,308.0
+Medicine Library,นิสิตแพทย์,Book,38333.0
+Medicine Library,นิสิตแพทย์,E Book,79407.0
+Medicine Library : MDCU Collection,นิสิตแพทย์,Special Collection,22.0
+Medicine Library : Research Collection,นิสิตนิติศาสตร์,Book,26.0
+Medicine Library : Reserve Collection,นิสิตทันตแพทย์,E Reserve 3,11.0
+Medicine Library : Stack,นิสิตสหเวชศาสตร์,Book,443.0
+Medicine Library : Stack,นิสิตสัตวแพทย์,Book,10.0
+Medicine Library : Stack,นิสิตอักษร,Book,112.0
+Medicine Library : Stack,นิสิตเภสัชฯ,Book,22.0
+Medicine Library : Stack,นิสิตแพทย์,Book,2452.0
+Petroleum & Petrochemical College Library,นิสิตนิติศาสตร์,Book,116.0
+Pharmaceutical Sciences Library,นิสิต,Book,4768.0
+Pharmaceutical Sciences Library,นิสิต,E Book,1950.0
+Pharmaceutical Sciences Library,นิสิตครุ,Book,114.0
+Pharmaceutical Sciences Library,นิสิตนิติศาสตร์,Book,16.0
+Pharmaceutical Sciences Library,นิสิตรัฐศาสตร์,Book,78.0
+Pharmaceutical Sciences Library,นิสิตวิทยาศาสตร์,Book,275.0
+Pharmaceutical Sciences Library,นิสิตวิทยาศาสตร์,E Book,144.0
+Pharmaceutical Sciences Library,นิสิตศิลปกรรม,Book,10.0
+Pharmaceutical Sciences Library,นิสิตสัตวแพทย์,Book,77.0
+Pharmaceutical Sciences Library,นิสิตอักษร,Book,173.0
+Pharmaceutical Sciences Library,นิสิตเภสัชฯ,Book,258929.0
+Pharmaceutical Sciences Library,นิสิตเภสัชฯ,E Book,36066.0
+Pharmaceutical Sciences Library,นิสิตแพทย์,Book,1064.0
+Pharmaceutical Sciences Library,นิสิตแพทย์,E Book,115.0
+Pharmaceutical Sciences Library : Reference Collection,นิสิตเภสัชฯ,E Reference Book,584.0
+Pharmaceutical Sciences Library : Reserve Collection,นิสิต,Reserve 3,840.0
+Pharmaceutical Sciences Library : Reserve Collection,นิสิตเภสัชฯ,Reserve 3,4547.0
+Political Science Library,นิสิต,Book,280.0
+Political Science Library,นิสิตครุ,Book,24018.0
+Political Science Library,นิสิตครุ,E Book,3333.0
+Political Science Library,นิสิตจิตวิทยา,Book,1955.0
+Political Science Library,นิสิตนิติศาสตร์,Book,4258.0
+Political Science Library,นิสิตนิติศาสตร์,E Book,150.0
+Political Science Library,นิสิตนิเทศ,Book,48.0
+Political Science Library,นิสิตนิเทศ,E Book,101.0
+Political Science Library,นิสิตพาณิช-บัญชี,Book,4880.0
+Political Science Library,นิสิตพาณิช-บัญชี,E Book,500.0
+Political Science Library,นิสิตรัฐศาสตร์,Book,1586349.0
+Political Science Library,นิสิตรัฐศาสตร์,E Book,131431.0
+Political Science Library,นิสิตรัฐศาสตร์,Reserve 3,60.0
+Political Science Library,นิสิตวิทยาศาสตร์,Book,1345.0
+Political Science Library,นิสิตวิทยาศาสตร์,E Book,196.0
+Political Science Library,นิสิตวิศวะ,Book,5072.0
+Political Science Library,นิสิตวิศวะ,E Book,604.0
+Political Science Library,นิสิตศิลปกรรม,Book,1048.0
+Political Science Library,นิสิตสถาปัตย์,Book,299.0
+Political Science Library,นิสิตสถาปัตย์,E Book,366.0
+Political Science Library,นิสิตสหเวชศาสตร์,Book,517.0
+Political Science Library,นิสิตสัตวแพทย์,Book,4689.0
+Political Science Library,นิสิตสัตวแพทย์,E Book,168.0
+Political Science Library,นิสิตอักษร,Book,26181.0
+Political Science Library,นิสิตอักษร,E Book,9636.0
+Political Science Library,นิสิตเศรษฐศาสตร์,Book,9536.0
+Political Science Library,นิสิตเศรษฐศาสตร์,E Book,901.0
+Political Science Library,นิสิตแพทย์,Book,3478.0
+Political Science Library : Reserve Collection,นิสิตรัฐศาสตร์,E Reserve 3,3420.0
+Political Science Library : Reserve Collection,นิสิตรัฐศาสตร์,Reserve 3,8116.0
+Political Science Library : Stack,นิสิตรัฐศาสตร์,E Book,17.0
+Political Science Library : Stack,นิสิตอักษร,E Book,24.0
+Sasin Library,นิสิต,E Book,133.0
+Sasin Library,นิสิตครุ,E Book,972.0
+Sasin Library,นิสิตจิตวิทยา,E Book,253.0
+Sasin Library,นิสิตนิติศาสตร์,Book,36.0
+Sasin Library,นิสิตนิติศาสตร์,E Book,99.0
+Sasin Library,นิสิตนิเทศ,E Book,91.0
+Sasin Library,นิสิตพาณิช-บัญชี,Book,299.0
+Sasin Library,นิสิตพาณิช-บัญชี,E Book,678.0
+Sasin Library,นิสิตรัฐศาสตร์,E Book,90.0
+Sasin Library,นิสิตศิลปกรรม,E Book,215.0
+Sasin Library,นิสิตสถาปัตย์,Book,280.0
+Sasin Library,นิสิตสถาปัตย์,E Book,387.0
+Sasin Library,นิสิตอักษร,Book,16.0
+Sasin Library,นิสิตอักษร,E Book,130.0
+Sasin Library,นิสิตเศรษฐศาสตร์,E Book,584.0
+Sasin Library,นิสิตแพทย์,E Book,149.0
+Sasin Library : Pamphlet,นิสิตรัฐศาสตร์,Pamphlet,2.0
+Sasin Library : Reserve Collection,นิสิตพาณิช-บัญชี,E Book,204.0
+Sasin Library : Reserve Collection,นิสิตวิทยาศาสตร์,E Book,68.0
+Sasin Library : Reserve Collection,นิสิตเศรษฐศาสตร์,E Reserve 7,45.0
+Sasin Library : SET Collection,นิสิตพาณิช-บัญชี,Book,89.0
+Sasin Library : SET Collection,นิสิตสถาปัตย์,Book,102.0
+Science Library,นิสิต,Book,19890.0
+Science Library,นิสิต,E Book,9563.0
+Science Library,นิสิตครุ,Book,55610.0
+Science Library,นิสิตครุ,E Book,18380.0
+Science Library,นิสิตจิตวิทยา,Book,168.0
+Science Library,นิสิตจิตวิทยา,E Book,432.0
+Science Library,นิสิตทันตแพทย์,Book,10674.0
+Science Library,นิสิตทันตแพทย์,E Book,1224.0
+Science Library,นิสิตนิติศาสตร์,E Book,90.0
+Science Library,นิสิตพาณิช-บัญชี,Book,9932.0
+Science Library,นิสิตพาณิช-บัญชี,E Book,380.0
+Science Library,นิสิตรัฐศาสตร์,Book,400.0
+Science Library,นิสิตวิทยาศาสตร์,Book,827157.0
+Science Library,นิสิตวิทยาศาสตร์,E Book,115966.0
+Science Library,นิสิตวิทย์-กีฬา,E Book,180.0
+Science Library,นิสิตวิศวะ,Book,22574.0
+Science Library,นิสิตวิศวะ,E Book,11477.0
+Science Library,นิสิตสถาปัตย์,Book,2040.0
+Science Library,นิสิตสถาปัตย์,E Book,1544.0
+Science Library,นิสิตสหเวชศาสตร์,Book,55179.0
+Science Library,นิสิตสหเวชศาสตร์,E Book,7360.0
+Science Library,นิสิตสัตวแพทย์,Book,13445.0
+Science Library,นิสิตสัตวแพทย์,E Book,1654.0
+Science Library,นิสิตอักษร,Book,1234.0
+Science Library,นิสิตอักษร,E Book,24.0
+Science Library,นิสิตเภสัชฯ,Book,47463.0
+Science Library,นิสิตเภสัชฯ,E Book,23374.0
+Science Library,นิสิตเศรษฐศาสตร์,Book,1204.0
+Science Library,นิสิตแพทย์,E Book,1149.0
+Science Library : Audio-Visual Collection,นิสิตวิทยาศาสตร์,Software CD-ROM,70.0
+Science Library : Closed Shelf,นิสิตครุ,Book,180.0
+Science Library : Closed Shelf,นิสิตวิทยาศาสตร์,Book,1158.0
+Science Library : Closed Shelf,นิสิตวิทยาศาสตร์,E Book,3796.0
+Science Library : Closed Shelf,นิสิตสถาปัตย์,E Book,27.0
+Science Library : Closed Shelf,นิสิตเศรษฐศาสตร์,E Book,52.0
+Science Library : Project,นิสิตครุ,Book,232.0
+Science Library : Project,นิสิตวิทยาศาสตร์,Book,96.0
+Science Library : Project,นิสิตวิทย์-กีฬา,Book,36.0
+Science Library : Project,นิสิตอักษร,Book,364.0
+Science Library : Project,นิสิตเภสัชฯ,Book,14.0
+Science Library : Reference Collection,นิสิตวิทยาศาสตร์,E Reference Book,18.0
+Science Library : Thesis,นิสิตวิทยาศาสตร์,Thesis,108.0
+Scientific and Technological Research Equipment Centre Library :  Standard,นิสิตสถาปัตย์,Book,1.0
+Thai Music Library,นิสิตครุ,Book,145.0
+Thai Music Library,นิสิตศิลปกรรม,Book,220.0
+Thai Music Library : Research,นิสิตครุ,Reserve 3,7.0
+Thai Music Library : Research,นิสิตครุ,Thesis,6.0
+Thai Music Library : Thesis,นิสิตครุ,Thesis,18.0
+Thailand and ASEAN Information Center (6th Floor),นิสิต,Book,263.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตครุ,Book,6548.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตครุ,E Book,874.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,28.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตทันตแพทย์,Book,196.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตนิติศาสตร์,Book,1504.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตนิติศาสตร์,E Book,992.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตนิเทศ,Book,154.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตนิเทศ,E Book,257.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตพาณิช-บัญชี,Book,358.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตพาณิช-บัญชี,E Book,180.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตรัฐศาสตร์,Book,9906.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตรัฐศาสตร์,E Book,2974.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตวิทยาศาสตร์,Book,258.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตวิทยาศาสตร์,E Book,36.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตวิศวะ,Book,275.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตวิศวะ,E Book,20.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตศิลปกรรม,Book,325.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตสถาปัตย์,Book,820.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตสถาปัตย์,E Book,739.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตสหเวชศาสตร์,Book,163.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตสัตวแพทย์,Book,46.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตอักษร,Book,7621.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตอักษร,E Book,3318.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตเศรษฐศาสตร์,Book,575.0
+Thailand and ASEAN Information Center (6th Floor),นิสิตเศรษฐศาสตร์,E Book,682.0
+Thailand and ASEAN Information Center (6th Floor) : Chula Collection,นิสิตครุ,Special Collection,150.0
+Thailand and ASEAN Information Center (6th Floor) : Chula Collection,นิสิตรัฐศาสตร์,Special Collection,77.0
+Thailand and ASEAN Information Center (6th Floor) : Chula Collection,นิสิตอักษร,Special Collection,40.0
+Thailand and ASEAN Information Center (6th Floor) : Government Publication,นิสิตนิติศาสตร์,Special Collection,44.0
+Thailand and ASEAN Information Center (6th Floor) : Government Publication,นิสิตรัฐศาสตร์,Special Collection,144.0
+Thailand and ASEAN Information Center (6th Floor) : Government Publication,นิสิตอักษร,Special Collection,16.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตครุ,Book,332.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตครุ,E Book,592.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตตรี สำนักวิชาทรัพยากรการเกษตร,E Book,116.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตวิทยาศาสตร์,Book,140.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตอักษร,Book,1168.0
+Thailand and ASEAN Information Center (6th Floor) : Indian Studies,นิสิตอักษร,E Book,161.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตครุ,E Special Collection,32.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตรัฐศาสตร์,E Special Collection,110.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตวิทยาศาสตร์,E Special Collection,50.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตศิลปกรรม,E Special Collection,112.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตสถาปัตย์,E Special Collection,98.0
+Thailand and ASEAN Information Center (6th Floor) : Thailand Collection,นิสิตอักษร,E Special Collection,13.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตครุ,E Thesis,27.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตครุ,Thesis,568.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตนิติศาสตร์,E Thesis,322.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตรัฐศาสตร์,E Thesis,45.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตรัฐศาสตร์,Thesis,349.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตสถาปัตย์,E Thesis,600.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตสหเวชศาสตร์,Thesis,90.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตอักษร,E Thesis,56.0
+Thailand and ASEAN Information Center (6th Floor) : Thesis,นิสิตอักษร,Thesis,70.0
+Veterinary Science Library,นิสิตครุ,Book,140.0
+Veterinary Science Library,นิสิตพาณิช-บัญชี,Book,11.0
+Veterinary Science Library,นิสิตวิศวะ,Book,29.0
+Veterinary Science Library,นิสิตสถาปัตย์,Book,95.0
+Veterinary Science Library,นิสิตสถาปัตย์,E Book,80.0
+Veterinary Science Library,นิสิตสัตวแพทย์,Book,16105.0
+Veterinary Science Library,นิสิตสัตวแพทย์,E Book,13108.0
+Veterinary Science Library,นิสิตอักษร,Book,357.0
+Veterinary Science Library,นิสิตเภสัชฯ,E Book,10.0
+Veterinary Science Library : Reference Collection,นิสิตสัตวแพทย์,E Reference Book,3076.0
+Veterinary Science Library : Reserve Collection,นิสิตสัตวแพทย์,Book,248.0
+Veterinary Science Library : Reserve Collection,นิสิตสัตวแพทย์,E Reserve 5h,2253.0
